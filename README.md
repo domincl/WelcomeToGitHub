@@ -1,4 +1,4 @@
-# Hello CIS Capstone!
+# Hello CIS Capstone Spring 21! 
 
 Welcome to GitHub!
 

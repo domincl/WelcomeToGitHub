@@ -1,3 +1,5 @@
+![example workflow name](https://github.com/domincl/WelcomeToGitHub/workflows/swift/badge.svg)
+
 # Hello CIS Capstone!
 
 Welcome to GitHub!

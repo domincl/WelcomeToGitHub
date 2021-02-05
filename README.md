@@ -1,4 +1,5 @@
-![example workflow name](https://github.com/domincl/WelcomeToGitHub/workflows/swift/badge.svg)
+![example workflow name.    ](https://github.com/domincl/WelcomeToGitHub/workflows/swift/badge.svg)
+![example workflow file path](https://github.com/domincl/WelcomeToGitHub/workflows/.github/workflows/swift.yml/badge.svg)
 
 # Hello CIS Capstone!
 

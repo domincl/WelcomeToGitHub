@@ -1,3 +1,4 @@
+![Swift](../../workflows/Swift/badge.svg)
 # Hello CIS Capstone!
 
 Welcome to GitHub!

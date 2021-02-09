@@ -1,4 +1,5 @@
 ![Swift-build](https://github.com/domincl/WelcomeToGitHub/workflows/Swift-build/badge.svg)
+
 ![Swift-test](https://github.com/domincl/WelcomeToGitHub/workflows/Swift-test/badge.svg)
 
 # Hello CIS Capstone!
